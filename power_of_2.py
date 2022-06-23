@@ -11,7 +11,7 @@ def power_of_two(n):
 print(power_of_two(1))
 print(power_of_two(2))
 print(power_of_two(8))
-print(power_of_two(5))
+print(power_of_two(10))
 
 # Time complexity O(logn) -- input size is reduced by half
 

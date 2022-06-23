@@ -10,7 +10,7 @@ print(factorial(4))
 
 #Using Recursion
 def fact(n):
-    res=1
+    
     if n==0:
         return(1)
     else:
